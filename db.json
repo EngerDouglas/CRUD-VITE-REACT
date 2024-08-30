@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Laura Martinez",
+      "username": "laurita",
+      "email": "laura.martinez77@example.com",
+      "phone": "829-123-4567"
+    },
+    {
+      "id": "3",
+      "name": "Miguel Fernandez",
+      "username": "mikef",
+      "email": "miguel.fernandez54@example.com",
+      "phone": "809-876-5432"
+    },
+    {
+      "id": "4",
+      "name": "Ana Gomez",
+      "username": "anag",
+      "email": "ana.gomez22@example.com",
+      "phone": "829-987-6543"
+    },
+    {
+      "id": "5",
+      "name": "David Lopez",
+      "username": "dlopez",
+      "email": "david.lopez33@example.com",
+      "phone": "849-321-1234"
+    },
+    {
+      "id": "fda6",
+      "name": "enger",
+      "email": "engerdouglas123@gmail.com",
+      "phone": "8099993333"
+    },
+    {
+      "id": "23ad",
+      "name": "yaneli",
+      "email": "juanamartine@gmail.com",
+      "phone": "8092131233"
+    }
+  ]
+}
